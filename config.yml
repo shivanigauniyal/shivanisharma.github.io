@@ -53,8 +53,8 @@ params:
           enabled: true
           title: Dr Shivani Sharma
           subtitle: "I am a climate modeller at the British Antarctic Survey."
-          imageUrl: "images/picture.jpg"  # Add your image path here
-          imageWidth: 160
+          imageUrl: "images/picture.jpg"
+          imageWidth: 120
           imageHeight: 160
           buttons:
             - name: Papers
