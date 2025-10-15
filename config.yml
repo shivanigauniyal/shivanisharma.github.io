@@ -1,4 +1,4 @@
-baseURL: "https://shivanisharma.github.io" 
+baseURL: "https://shivanigauniyal.github.io/shivanisharma.github.io" 
 title: Shivani Sharma
 theme: PaperMod
 
@@ -53,7 +53,7 @@ params:
           enabled: true
           title: Dr Shivani Sharma
           subtitle: "I am a climate modeller at the British Antarctic Survey."
-          imageUrl: "images/profile.jpg"  # Add your image path here
+          imageUrl: "images/picture.jpg"  # Add your image path here
           imageWidth: 160
           imageHeight: 160
           buttons:
