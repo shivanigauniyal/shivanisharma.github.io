@@ -20,6 +20,7 @@ keywords:
     - Superdroplet Simulations
 links:
     - name: Full Article
-        url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS00427979
+      url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS00427979
     - name: Code 
-        url: https://github.com/m-dml/warm-rain-emulator
+      url: https://github.com/m-dml/warm-rain-emulator
+---
