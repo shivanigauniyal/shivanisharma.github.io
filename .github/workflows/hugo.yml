@@ -46,6 +46,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+        with:
+          # Automatically enable GitHub Pages (Source: GitHub Actions)
+          # if it has not been enabled in the repository settings yet.
+          enablement: true
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
