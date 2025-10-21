@@ -18,7 +18,7 @@ keywords:
   "Coupling Strategies"]
 
 cover:
-  image: "paper.png"
+  image: "paper1.png"
   relative: true
 ---
 <meta http-equiv="refresh" content="0; url=https://gmd.copernicus.org/articles/17/4017/2024/" />
