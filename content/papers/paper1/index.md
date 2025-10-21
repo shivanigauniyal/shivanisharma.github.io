@@ -21,5 +21,5 @@ cover:
   image: "paper1.png"
   relative: true
 
-url: "https://gmd.copernicus.org/articles/17/4017/2024/"
+aliases: "https://gmd.copernicus.org/articles/17/4017/2024/"
 ---
