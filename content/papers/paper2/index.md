@@ -20,7 +20,7 @@ doi: "10.1029/2024MS004279"
 #     - Superdroplet Simulations
 
 cover:
-  image: "paper2.png"
+  image: "paper2.jpg
   relative: true
 ---
 <meta http-equiv="refresh" content="0; url=https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024MS004279" />
