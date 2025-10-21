@@ -16,17 +16,9 @@ keywords:
   "ICON Model",
   "Warm-Rain Processes",
   "Coupling Strategies"]
-  
+
 cover:
   image:"paper1.png",
   relative: true
-links:
-  - name: Full Article
-    url: https://gmd.copernicus.org/articles/17/4017/2024/
-  - name: Code Repository
-    url: "https://doi.org/10.5281/zenodo.10069121"
-  - name: ICON Model Code
-    url: "https://doi.org/10.5281/zenodo.8348256"
-  - name: Experiment Data
-    url: "https://doi.org/10.5281/zenodo.8348266"
+url: "https://gmd.copernicus.org/articles/17/4017/2024/"
 ---
