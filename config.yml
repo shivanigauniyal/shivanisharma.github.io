@@ -59,7 +59,7 @@ params:
             During my PhD at Helmholtz-Zentrum Hereon and the Max Planck Institute of Meteorology,
              I developed machine learning based emulators of Lagrangian cloud microphysics schemes to improve the representation of clouds and precipitation in climate models.
             I am also working on developing strategies to create hybrid models that combine numerical modelling with machine learning components.
-          imageUrl: "images/picture.jpg"
+          imageUrl: "images/Extant_shivani.jpg"
           imageWidth: 150
           imageHeight: 200
           buttons:
