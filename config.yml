@@ -85,7 +85,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Academic_Resume.pdf
         - name: Email
           url: mailto:shivsha@bas.ac.uk
         # - name: Zoom
