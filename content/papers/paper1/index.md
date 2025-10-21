@@ -7,7 +7,7 @@ volume: 17
 issue: 9
 pages: 4017-4029
 doi: "10.5194/gmd-17-4017-2024"
-abstract: |
+abstract: 
   "Machine learning (ML) algorithms can be used in Earth system models (ESMs) to emulate sub-grid-scale processes. This paper presents the coupling of SuperdropNet, a machine learning model for emulating warm-rain processes in cloud microphysics, with the ICON (Icosahedral Nonhydrostatic) model v2.6.5. SuperdropNet replaces the collision–coalescence process in the two-moment cloud microphysics scheme. The paper discusses three coupling strategies: embedded Python, pipes, and Yet Another Coupler (YAC). Validation in the warm-bubble scenario demonstrates stability and physical consistency of SuperdropNet, with embedded Python providing the best computational performance."
 keywords:
   ["Machine Learning",

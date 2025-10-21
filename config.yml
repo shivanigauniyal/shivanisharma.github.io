@@ -15,6 +15,9 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
+        - name: Research
+          url: research/
+          weight: 3
         # - name: Courses
         #   url: courses/
         #   weight: 3
