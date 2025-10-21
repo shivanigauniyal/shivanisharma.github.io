@@ -60,8 +60,8 @@ params:
              I developed machine learning based emulators of Lagrangian cloud microphysics schemes to improve the representation of clouds and precipitation in climate models.
             I am also working on developing strategies to create hybrid models that combine numerical modelling with machine learning components.
           imageUrl: "images/Extant_shivani.jpg"
-          imageWidth: 150
-          imageHeight: 200
+          imageWidth: 200
+          imageHeight: 170
           buttons:
             - name: Papers
               url: papers/
