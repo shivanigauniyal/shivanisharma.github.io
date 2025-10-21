@@ -22,7 +22,7 @@ Machine learning based approaches in Earth Science benefit from application of p
 ![Hybrid Modelling](hybrid_modelling.jpg)
 <small>*Image Title: Hybrid Modelling*</small>
 
-I believe that AI has a lot to offer when it comes to representation of sub-grid scale processes in weather and climate models. Hence, it is imperative to continuously develop fast and convenient tools to couple AI compneents to largely FORTRAN based non-differentiable weather and climate models. Since my PhD, I have been working with experts at DKRZ to improve upon these tools, especially for ICON.  
+I believe that AI has a lot to offer when it comes to representation of sub-grid scale processes in weather and climate models. It can fill in the gaps in numerical modelling, but there reain various componenets of numerical modelling that are extremely accuate and useful. Hence, it is imperative to continuously develop fast and convenient tools to couple AI compneents to largely FORTRAN based non-differentiable weather and climate models. Since my PhD, I have been working with experts at DKRZ to improve upon these tools, especially for ICON.  
 
 
 ## Regional Climate Modelling
