@@ -56,12 +56,12 @@ params:
           enabled: true
           title: Dr Shivani Sharma
           subtitle: >
-            I am a climate modeller at the British Antarctic Survey. I use machine
-            learning to improve the representation of extreme weather in the Antarctic.
+            I am a Climate Modeller at the British Antarctic Survey. I use Machine
+            Learning to improve the representation of extreme weather in the Antarctic.
             I am particularly interested in precipitation events and how they evolve in a changing climate.
             During my PhD at Helmholtz-Zentrum Hereon and the Max Planck Institute of Meteorology,
-             I developed machine learning based emulators of Lagrangian cloud microphysics schemes to improve the representation of clouds and precipitation in climate models.
-            I am also working on developing strategies to create hybrid models that combine numerical modelling with machine learning components.
+             I developed machine learning based emulators of Lagrangian cloud microphysics schemes to improve the representation of clouds and precipitation in Climate models.
+            I am also working on developing strategies to create hybrid models that couple atmospheric models with machine learning components.
           imageUrl: "images/Extant_shivani.jpg"
           imageWidth: 200
           imageHeight: 170
