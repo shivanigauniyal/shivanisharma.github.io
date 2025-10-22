@@ -16,15 +16,14 @@ Processes related to cloud formation are heavily parameterized. These processes 
 ![Physics-Informed ML](clouds.png)
 <small>*SuperdropNet is a dynamically stable emulator where the errors don't accumulate over time.*</small>
 
-<small>*Image Title: Physics-Informed ML*</small>
 
 Machine learning based approaches in Earth Science benefit from application of physical contraints based on conservation laws. To ensure stability of simulations and even enhance interpretability,  deep learning methods can be nudged using our knwoledge of physics of the problem at hand. SuperdropNet benefitted from autoregressive training, curriculum learning and imposition of mass conservation. Similarly, ML-based emulators for downscaling of climate data benefit from selective training on extreme values to learn a relistic distribution and weighting of the loss function. Instead of treating ML methods as a "black box", I constantly endeavour to improve upon them using our knowledge of Physics. 
 
 ## Hybrid Modelling
 ![Hybrid Modelling](hybrid_modelling.jpg)
-<small>*Image Title: Hybrid Modelling*</small>
+<small>*Machine Learning emulator require specialized "bridges" to allow them to couple to a Weather or Climate Model *</small>
 
-I believe that AI has a lot to offer when it comes to representation of sub-grid scale processes in weather and climate models. It can fill in the gaps in numerical modelling, but there remain various componenets of numerical modelling that are extremely accurate and useful. Hence, it is imperative to continuously develop fast and convenient tools to couple AI compneents to largely FORTRAN based non-differentiable weather and climate models, while ensruing minimum computational overheads. Since my PhD, I have been working with experts at DKRZ(German Climate Computing Centre) to improve upon these tools, especially for ICON.  
+I believe that AI has a lot to offer when it comes to representation of sub-grid scale processes in weather and climate models. It can fill in the gaps in numerical modelling, but there remain various componenets of numerical modelling that are extremely accurate and useful. Hence, it is imperative to continuously develop fast and convenient tools to couple AI compneents to largely FORTRAN based non-differentiable weather and climate models, while ensruing minimum computational overheads. Since my PhD, I have been working with experts at DKRZ(German Climate Computing Centre) to improve upon these tools, especially for ICON. We have also succeded in coupling SuperdropNet to a test scenario, followed by the complete model at 10 km resolution. 
 
 
 ## Regional Climate Modelling
